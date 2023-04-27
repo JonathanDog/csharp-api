@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3leNnoIiFcabvDIVtUSTqu4L1jtc+0Nsup/WqDC9mPE=",
+  "Source": "cSharpApi",
+  "BasePath": "_content/cSharpApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
