@@ -1,5 +1,5 @@
 ### Pet-API
-#Purpose
+# Purpose
 This API allows you to store pets and owners in a database. For example if a pet gets lost and their pet id is on their collar. You can search up the id through the api and be able to get the contact information of the owner.  
 
 **Owner Endpoints**
